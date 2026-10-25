@@ -37,7 +37,7 @@ Tip: the app starts empty. Add a subject first, then your tasks.
 - `style.css`: styling
 - `script.js`: app logic
 
-pls don't hesitate to give Advice if you have any considering me as beginner🤝.
+pls don't hesitate to give advice if you have any considering me as beginner🤝😄.
 
 
 Built by Abdurahman Temam 
